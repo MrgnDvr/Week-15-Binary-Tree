@@ -1,7 +1,4 @@
 
-Page
-1
-of 2
 #ifndef _BINARY_TREE_INTERFACE
 #define _BINARY_TREE_INTERFACE
 #include "BinaryNode.h"
